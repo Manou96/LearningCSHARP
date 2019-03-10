@@ -1,0 +1,11 @@
+/Users/Manou/Documents/GitHub/LearningCSHARP/frameworkDebut/bin/Debug/netcoreapp2.2/frameworkDebut.deps.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/frameworkDebut/bin/Debug/netcoreapp2.2/frameworkDebut.runtimeconfig.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/frameworkDebut/bin/Debug/netcoreapp2.2/frameworkDebut.runtimeconfig.dev.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/frameworkDebut/bin/Debug/netcoreapp2.2/frameworkDebut.dll
+/Users/Manou/Documents/GitHub/LearningCSHARP/frameworkDebut/bin/Debug/netcoreapp2.2/frameworkDebut.pdb
+/Users/Manou/Documents/GitHub/LearningCSHARP/frameworkDebut/obj/Debug/netcoreapp2.2/frameworkDebut.csprojAssemblyReference.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/frameworkDebut/obj/Debug/netcoreapp2.2/frameworkDebut.csproj.CoreCompileInputs.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/frameworkDebut/obj/Debug/netcoreapp2.2/frameworkDebut.AssemblyInfoInputs.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/frameworkDebut/obj/Debug/netcoreapp2.2/frameworkDebut.AssemblyInfo.cs
+/Users/Manou/Documents/GitHub/LearningCSHARP/frameworkDebut/obj/Debug/netcoreapp2.2/frameworkDebut.dll
+/Users/Manou/Documents/GitHub/LearningCSHARP/frameworkDebut/obj/Debug/netcoreapp2.2/frameworkDebut.pdb
