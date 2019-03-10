@@ -1,0 +1,11 @@
+/Users/Manou/Documents/GitHub/LearningCSHARP/plusMinusGame/obj/Debug/netcoreapp2.2/plusMinusGame.csprojAssemblyReference.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/plusMinusGame/obj/Debug/netcoreapp2.2/plusMinusGame.csproj.CoreCompileInputs.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/plusMinusGame/obj/Debug/netcoreapp2.2/plusMinusGame.AssemblyInfoInputs.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/plusMinusGame/obj/Debug/netcoreapp2.2/plusMinusGame.AssemblyInfo.cs
+/Users/Manou/Documents/GitHub/LearningCSHARP/plusMinusGame/bin/Debug/netcoreapp2.2/plusMinusGame.deps.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/plusMinusGame/bin/Debug/netcoreapp2.2/plusMinusGame.runtimeconfig.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/plusMinusGame/bin/Debug/netcoreapp2.2/plusMinusGame.runtimeconfig.dev.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/plusMinusGame/bin/Debug/netcoreapp2.2/plusMinusGame.dll
+/Users/Manou/Documents/GitHub/LearningCSHARP/plusMinusGame/bin/Debug/netcoreapp2.2/plusMinusGame.pdb
+/Users/Manou/Documents/GitHub/LearningCSHARP/plusMinusGame/obj/Debug/netcoreapp2.2/plusMinusGame.dll
+/Users/Manou/Documents/GitHub/LearningCSHARP/plusMinusGame/obj/Debug/netcoreapp2.2/plusMinusGame.pdb
