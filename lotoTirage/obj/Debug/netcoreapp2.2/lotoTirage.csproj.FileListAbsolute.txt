@@ -1,0 +1,11 @@
+/Users/Manou/Documents/GitHub/LearningCSHARP/lotoTirage/bin/Debug/netcoreapp2.2/lotoTirage.deps.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/lotoTirage/bin/Debug/netcoreapp2.2/lotoTirage.runtimeconfig.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/lotoTirage/bin/Debug/netcoreapp2.2/lotoTirage.runtimeconfig.dev.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/lotoTirage/bin/Debug/netcoreapp2.2/lotoTirage.dll
+/Users/Manou/Documents/GitHub/LearningCSHARP/lotoTirage/bin/Debug/netcoreapp2.2/lotoTirage.pdb
+/Users/Manou/Documents/GitHub/LearningCSHARP/lotoTirage/obj/Debug/netcoreapp2.2/lotoTirage.csprojAssemblyReference.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/lotoTirage/obj/Debug/netcoreapp2.2/lotoTirage.csproj.CoreCompileInputs.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/lotoTirage/obj/Debug/netcoreapp2.2/lotoTirage.AssemblyInfoInputs.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/lotoTirage/obj/Debug/netcoreapp2.2/lotoTirage.AssemblyInfo.cs
+/Users/Manou/Documents/GitHub/LearningCSHARP/lotoTirage/obj/Debug/netcoreapp2.2/lotoTirage.dll
+/Users/Manou/Documents/GitHub/LearningCSHARP/lotoTirage/obj/Debug/netcoreapp2.2/lotoTirage.pdb
