@@ -1,0 +1,11 @@
+/Users/Manou/Documents/GitHub/LearningCSHARP/firstTest/bin/Debug/netcoreapp2.2/firstTest.deps.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/firstTest/bin/Debug/netcoreapp2.2/firstTest.runtimeconfig.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/firstTest/bin/Debug/netcoreapp2.2/firstTest.runtimeconfig.dev.json
+/Users/Manou/Documents/GitHub/LearningCSHARP/firstTest/bin/Debug/netcoreapp2.2/firstTest.dll
+/Users/Manou/Documents/GitHub/LearningCSHARP/firstTest/bin/Debug/netcoreapp2.2/firstTest.pdb
+/Users/Manou/Documents/GitHub/LearningCSHARP/firstTest/obj/Debug/netcoreapp2.2/firstTest.csprojAssemblyReference.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/firstTest/obj/Debug/netcoreapp2.2/firstTest.csproj.CoreCompileInputs.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/firstTest/obj/Debug/netcoreapp2.2/firstTest.AssemblyInfoInputs.cache
+/Users/Manou/Documents/GitHub/LearningCSHARP/firstTest/obj/Debug/netcoreapp2.2/firstTest.AssemblyInfo.cs
+/Users/Manou/Documents/GitHub/LearningCSHARP/firstTest/obj/Debug/netcoreapp2.2/firstTest.dll
+/Users/Manou/Documents/GitHub/LearningCSHARP/firstTest/obj/Debug/netcoreapp2.2/firstTest.pdb
