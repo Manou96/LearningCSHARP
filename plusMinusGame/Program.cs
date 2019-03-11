@@ -12,7 +12,7 @@ namespace plusMinusGame
             int valeur;
 
             Console.WriteLine("================================PLUS MINUS GAME================================");
-            Console.WriteLine("Cherchez le nombre magique entre 1 et 100");
+            Console.WriteLine(Environment.UserName+ " c50herche le nombre magique entre 1 et 100");
             do{    
             input=Console.ReadLine();
             if(int.TryParse(input, out valeur)){
