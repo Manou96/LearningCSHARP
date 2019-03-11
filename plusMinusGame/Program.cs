@@ -12,7 +12,7 @@ namespace plusMinusGame
             int valeur;
 
             Console.WriteLine("================================PLUS MINUS GAME================================");
-            Console.WriteLine(Environment.UserName+ " c50herche le nombre magique entre 1 et 100");
+            Console.WriteLine(Environment.UserName+ " cherche le nombre magique entre 1 et 100");
             do{    
             input=Console.ReadLine();
             if(int.TryParse(input, out valeur)){
@@ -24,6 +24,7 @@ namespace plusMinusGame
                 Console.WriteLine("Plus Petit...");
                 nbCoup++;
                 }else{
+                nbCoup++;    
                 Console.WriteLine("================================VOUS AVEZ TROUVE================================");
                 Console.WriteLine("Vous avez trouvé en "
                 +nbCoup+" coup(s)");
